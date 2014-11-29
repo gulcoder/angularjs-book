@@ -1,0 +1,9 @@
+{
+    "name": "ElephantIO Test",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4",
+        "wisembly/elephant.io": "~3.0"
+    }
+}
